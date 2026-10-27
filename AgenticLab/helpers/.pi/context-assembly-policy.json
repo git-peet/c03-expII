@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "allowedSourceRoots": [
+    "src"
+  ],
+  "sourceScopeRules": [
+    {
+      "pathRoot": "src",
+      "scopePrefix": "modules",
+      "scopeSegments": 1
+    }
+  ],
+  "maxSourceFiles": 8,
+  "maxSourceLines": 240,
+  "maxKnowledgeRecords": 5,
+  "maxKnowledgeLines": 120
+}
